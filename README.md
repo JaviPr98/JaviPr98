@@ -65,7 +65,6 @@ Soy un alumno de **ASIR** enfocado en la administraci√≥n de infraestructuras cr√
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaviPr98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaviPr98&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
@@ -73,9 +72,4 @@ Soy un alumno de **ASIR** enfocado en la administraci√≥n de infraestructuras cr√
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviPr98&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaviPr98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaviPr98&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
